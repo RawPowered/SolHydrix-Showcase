@@ -4,3 +4,4 @@ Thumbs.db
 build/
 __pycache__/
 output/
+.playwright-cli/

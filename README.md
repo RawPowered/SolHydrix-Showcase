@@ -1,10 +1,16 @@
-<p align="center"><img src="assets/official-logo.webp" width="520" alt="SolHydrix official blue molecular logo"></p>
+<p align="center"><img src="docs/theme-assets/theme-banner.svg" width="100%" alt="Charcoal and lime RawPowered banner for the SolHydrix WordPress theme by Joseph Edwards"></p>
+
+<p align="center"><strong><a href="https://rawpowered.github.io/SolHydrix-Showcase/theme.html">Explore the theme showcase</a></strong> · <a href="https://rawpowered.github.io/SolHydrix-Showcase/">Open the client design preview</a> · <a href="https://www.linkedin.com/in/josephedwardscto/">Discuss a project</a></p>
+
+<p align="center"><img src="assets/official-logo.webp" width="390" alt="SolHydrix official blue molecular logo"></p>
 
 <h1 align="center">SolHydrix website case study</h1>
 
 <p align="center"><strong>Roof coating. Explore more life.</strong><br>Brand direction, WordPress experience, marketing copy, responsive design, SEO, and performance work for a Florida roof coating concept.</p>
 
 <p align="center"><strong><a href="https://rawpowered.github.io/SolHydrix-Showcase/">Open the interactive HTML demo</a></strong> · <a href="assets/solhydrix-scroll-1080p.mp4">Watch the 1080p video</a> · <a href="assets/solhydrix-scroll-1080p.gif">Download the 1080p GIF</a></p>
+
+<p align="center"><sub>The portfolio presentation uses Joseph Edwards' charcoal and lime system. The website screenshots preserve SolHydrix's approved blue and white brand.</sub></p>
 
 <p align="center"><a href="#the-experience">Experience</a> · <a href="#design-decisions">Design decisions</a> · <a href="#implementation-evidence">Implementation evidence</a> · <a href="#review-by-discipline">Review by discipline</a></p>
 
@@ -22,7 +28,7 @@ The [interactive HTML demo](https://rawpowered.github.io/SolHydrix-Showcase/) pr
 
 | Audience | Start here |
 | --- | --- |
-| Site stakeholders | [Desktop and mobile experience](#the-experience), [launch status](#launch-status) |
+| Site stakeholders and prospective clients | [Visual theme showcase](https://rawpowered.github.io/SolHydrix-Showcase/theme.html), [desktop and mobile experience](#the-experience), [launch status](#launch-status) |
 | Design and web development reviewers | [Visual rejection study](showcase/rejected-artwork/README.md), [responsive layout](#the-experience), [code examples](examples/README.md) |
 | AI Tutor and design QA reviewers | [Rejection criteria and corrections](showcase/rejected-artwork/README.md), [copy decisions](showcase/copywriting/README.md), [optimization review](showcase/optimizations/README.md) |
 | SEO and performance reviewers | [Measurement and implementation notes](showcase/optimizations/README.md), [selected source excerpts](examples/README.md) |

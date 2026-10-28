@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
+<title id="title">SolHydrix Theme by Joseph Edwards</title>
+<desc id="desc">Charcoal and lime RawPowered portfolio banner for the custom SolHydrix WordPress theme.</desc>
+<rect width="1400" height="320" fill="#08090A"/>
+<rect x="1" y="1" width="1398" height="318" fill="none" stroke="#373A3D" stroke-width="2"/>
+<path d="M0 0h440l-8 8H0z" fill="#D5FF3F"/>
+<path d="M1330 0h70v320h-70zM0 296h742v24H0z" fill="#101214"/>
+<path d="M745 0h110L672 320H562zM900 0h90L807 320h-90zM1044 0h90L951 320h-90z" fill="#0E1012"/>
+<path d="M54 40h13l-8 16H46z" fill="#D5FF3F"/>
+<text x="82" y="55" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#BFC3C8">JOSEPH EDWARDS / RAWPOWERED</text>
+<text x="52" y="151" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2.8" fill="#F6F7F8">SolHydrix <tspan fill="#D5FF3F">Theme.</tspan></text>
+<text x="55" y="200" font-family="Arial,sans-serif" font-size="20" fill="#CFD2D5">Custom WordPress experience, built for clear decisions.</text>
+<path d="M55 246h165" stroke="#D5FF3F" stroke-width="3"/><path d="M220 246l-9-7m9 7-9 7" fill="none" stroke="#D5FF3F" stroke-width="3"/>
+<text x="55" y="281" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.2" fill="#9DA5A8">DESIGN  /  BUILD  /  PERFORMANCE  /  REVIEW</text>
+<path d="M989 44v238" stroke="#373A3D"/>
+<text x="1023" y="62" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.4" fill="#D5FF3F">PROJECT PROFILE</text>
+<path d="M1022 80h286l10 10v67h-286l-10-10z" fill="#090A0B" stroke="#373A3D"/>
+<path d="M1022 80h70l-4 5h-66z" fill="#D5FF3F"/>
+<text x="1041" y="107" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#AEB3B8">01 / PRODUCT</text>
+<text x="1041" y="135" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#F6F7F8">Roof coating site</text>
+<path d="M1022 173h286l10 10v67h-286l-10-10z" fill="#090A0B" stroke="#373A3D"/>
+<path d="M1022 173h70l-4 5h-66z" fill="#D5FF3F"/>
+<text x="1041" y="200" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#AEB3B8">02 / DELIVERY</text>
+<text x="1041" y="228" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#F6F7F8">WordPress v0.1.0</text>
+<path d="M1358 0v320" stroke="#D5FF3F" stroke-opacity=".32"/>
+</svg>
