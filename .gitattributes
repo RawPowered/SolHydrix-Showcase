@@ -2,3 +2,8 @@
 *.php text eol=lf
 *.webp binary
 *.pdf binary
+*.gif binary
+*.mp4 binary
+*.avif binary
+*.png binary
+*.woff2 binary

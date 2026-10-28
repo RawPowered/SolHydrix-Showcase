@@ -4,13 +4,19 @@
 
 <p align="center"><strong>Roof coating. Explore more life.</strong><br>Brand direction, WordPress experience, marketing copy, responsive design, SEO, and performance work for a Florida roof coating concept.</p>
 
+<p align="center"><strong><a href="https://rawpowered.github.io/SolHydrix-Showcase/">Open the interactive HTML demo</a></strong> · <a href="assets/solhydrix-scroll-1080p.mp4">Watch the 1080p video</a> · <a href="assets/solhydrix-scroll-1080p.gif">Download the 1080p GIF</a></p>
+
 <p align="center"><a href="#the-experience">Experience</a> · <a href="#design-decisions">Design decisions</a> · <a href="#implementation-evidence">Implementation evidence</a> · <a href="#review-by-discipline">Review by discipline</a></p>
 
-![Desktop SolHydrix homepage hero with assessment call to action](assets/desktop-hero.webp)
+<a href="https://rawpowered.github.io/SolHydrix-Showcase/"><img src="assets/solhydrix-scroll-1080p.gif" alt="1080p walkthrough of the SolHydrix homepage from hero to footer" width="100%"></a>
+
+<p align="center"><sub>Full page scroll captured at 1920 × 1080. The linked demo is a static portfolio preview.</sub></p>
 
 ## Project at a glance
 
 SolHydrix is a separate WordPress site developed around an approved blue molecular logo and Roof Seal Clear bucket mockup. The page introduces the roof coating, helps visitors identify their roof material, explains the assessment process, and offers a direct request form. The current build is a local preview. The public domain and final product formulation remain pending.
+
+The [interactive HTML demo](https://rawpowered.github.io/SolHydrix-Showcase/) presents the design without WordPress. Its assessment area is a visual preview and does not send or store information. The financing page links to the blank fillable PDF. The static demo is excluded from search indexing to avoid competing with the future SolHydrix domain.
 
 **My contribution:** site structure, responsive visual direction, copy revision, WordPress theme implementation, media preparation, technical claim review, SEO metadata, page speed work, and review evidence. AI-assisted imagery was directed and revised against the brand and application requirements. Official logo and bucket files were supplied for the project.
 
