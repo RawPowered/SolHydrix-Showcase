@@ -1,0 +1,4 @@
+*.md text eol=lf
+*.php text eol=lf
+*.webp binary
+*.pdf binary
